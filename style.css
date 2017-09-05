@@ -1,0 +1,21 @@
+.full-height {
+  height: 100%;
+}
+
+body {
+  background-color: #FEFCFF;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Lato', sans-serif;
+  color: #333333;
+}
+
+h1 {
+  font-weight: lighter;
+}
+
