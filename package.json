@@ -1,0 +1,31 @@
+{
+  "name": "lauren-barker-personal-site",
+  "description": "Lauren Barker's personal site",
+  "version": "0.0.1",
+  "author": "Lauren Barker <ms.lebarker@gmail.com>",
+  "dependencies": {
+    "gatsby": "^1.9.247",
+    "gatsby-image": "^1.0.45",
+    "gatsby-link": "^1.6.40",
+    "gatsby-plugin-google-fonts": "^0.0.4",
+    "gatsby-plugin-react-helmet": "^2.0.10",
+    "gatsby-plugin-sharp": "^1.6.42",
+    "gatsby-source-filesystem": "^1.5.30",
+    "gatsby-transformer-sharp": "^1.6.22",
+    "react-helmet": "^5.2.0",
+    "react-icons": "^2.2.7"
+  },
+  "keywords": [
+    "gatsby"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "format": "prettier --write 'src/**/*.js'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "prettier": "^1.11.1"
+  }
+}
